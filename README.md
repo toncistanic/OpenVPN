@@ -1,2 +1,3 @@
-# OpenVPN
-Simple Installable OpenVPN server
+# My version of automated OpenVPN server installation based on OneMule
+Simple Installable OpenVPN server with web gui for certificate creation/revocation and whatnot...
+I`ve rewrited couple of rules and specs of my own here to match my needs, but pretty much basic stuff with some security layered;
